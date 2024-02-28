@@ -7,7 +7,7 @@
   },
   "challenge": "w_Z8g-jIGunFbC8KX9Lu418UPuyFcqA9g3fjj5PD-NtV2Yp7GwqxwXurE6tRfJyWokKmpWdysURKyWD4X62EoA",
   "timeout": 180000,
-  "rpId": "localhost",
+  "rpId": "bjxavbbc7tbb.ddns.net",
   "allowCredentials": [
     {
       "type": "public-key",

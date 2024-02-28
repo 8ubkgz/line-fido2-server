@@ -6,12 +6,12 @@ spring:
       cache: false
 fido2:
   rp:
-    id: localhost
-    origin: localhost
-    port: 8080
+    id: bjxavbbc7tbb.ddns.net
+    origin: bjxavbbc7tbb.ddns.net
+    port: 
 
 conformance:
-  url: http://localhost:8080
+  url: https://bjxavbbc7tbb.ddns.net
 logging:
   level:
     org.springframework.web: DEBUG

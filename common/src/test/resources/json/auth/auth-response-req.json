@@ -21,7 +21,7 @@
     }
   },
   "sessionId": "c05c782a-77ca-4721-b523-19389bfcf3d7",
-  "origin": "http://localhost:8080",
-  "rpId": "localhost",
+  "origin": "https://bjxavbbc7tbb.ddns.net",
+  "rpId": "bjxavbbc7tbb.ddns.net",
   "tokenBinding": null
 }
