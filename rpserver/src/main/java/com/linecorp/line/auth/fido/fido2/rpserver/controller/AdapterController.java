@@ -196,7 +196,7 @@ public class AdapterController {
         String scheme = httpServletRequest.getScheme();
 
         StringBuilder builder = new StringBuilder()
-                .append(scheme)
+                .append("https")
                 .append("://")
                 .append(rpOrigin);
 
@@ -302,7 +302,7 @@ public class AdapterController {
         // prepare origin
         String scheme = httpServletRequest.getScheme();
         StringBuilder builder = new StringBuilder()
-                .append(scheme)
+                .append("https")
                 .append("://")
                 .append(rpOrigin);
 
