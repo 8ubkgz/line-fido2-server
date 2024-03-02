@@ -11,7 +11,7 @@ fido2:
     port: 
 
 conformance:
-  url: https://bjxavbbc7tbb.ddns.net
+  url: http://bjxavbbc7tbb.ddns.net
 logging:
   level:
     org.springframework.web: DEBUG
